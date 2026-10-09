@@ -1,0 +1,2 @@
+<!-- Small logo: one chain link at 45°, same gradient. Used for favicons. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient></defs><g transform="rotate(-45 50 50)"><rect x="11" y="29" width="78" height="42" rx="18" fill="none" stroke="url(#g)" stroke-width="12"/></g></svg>
